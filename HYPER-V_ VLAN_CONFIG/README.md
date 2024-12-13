@@ -1,3 +1,20 @@
+# Opprette en ny virtuell maskin i Hyper-V
+
+1. Åpne **Hyper-V Manager:** Dette er verktøyet du bruker for å administrere virtuelle maskiner på din Windows-server.
+2. **Ny virtuell maskin:** Her starter du prosessen med å lage en ny virtuell datamaskin.
+3. **Generasjon 2:** Dette er den nyeste typen virtuell maskin og gir bedre ytelse og fleksibilitet.
+4. **Navn og plassering:** Gi maskinen et navn du husker, og velg hvor konfigurasjonsfilene skal lagres.
+5. **Minne:** Dette er hvor mye RAM den virtuelle maskinen kan bruke. 2GB er et bra utgangspunkt for OpnSense.
+6. **Nettverk:** Koble til et nettverk slik at den virtuelle maskinen kan kommunisere med andre enheter.
+7. **Harddisk:** Dette er den virtuelle maskinens lagringsplass.
+
+
+
+
+
+
+
+
 # Konfigurere VLAN for å Komme Inn i Et Domene
 
 For å komme inn i et domene, må du ha de riktige VLAN (Virtual Local Area Network) konfigurerte.
